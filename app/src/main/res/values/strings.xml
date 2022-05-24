@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DVDLoc_JS</string>
+
+    <string name="txtTitre">Choissisez un type</string>
+    <string name="txtBtnTechnique">Technique</string>
+    <string name="txtBtnPhysique">Physique</string>
+    <string name="txtBtnJeuDequipe">Jeu d équipe</string>
+    <string name="txtMenuRecherche">Rechercher un entrainement</string>
+    <string name="txtMenuReserver">Réserver un entrainement</string>
+    <string name="txtMenuMagasins">Magasin</string>
+    <string name="txtMenuPresentation">Présentation</string>
+    <string name="txtListTechnique">Liste des entrainements techniques</string>
+    <string name="txtListPhysique">Liste des entrainements physiques</string>
+    <string name="txtListJeuDequipe">Liste des entrainements en jeu d équipe</string>
+    <string name="txtBtnRetour">retour</string>
+    <string name="txtBtnConfirmer">CONFIRMER</string>
+    <string name="txtBtnAnnuler">ANNULER</string>
+    <string name="txtReservation">Reservation</string>
+    <string name="txtBtnOK">OK</string>
+    <string name="txtBtnTitreDemande">Titre demandés</string>
+
+    <string name="txtEditRecherche">Entrez une date</string>
+
+    <string name="txtReservertechnique">Réserver l entrainement du 12/04 ?</string>
+    <string name="titreLigne">Titre</string>
+    <string name="realisateurLigne">Réalisateur</string>
+    <string name="iconeLigne">icone</string>
+
+    <string name="txtListeSerie">Liste des entrainements</string>
+</resources>

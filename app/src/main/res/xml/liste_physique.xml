@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<ressource>
+    <dvd cat="physique" titre="Jeu d'épaule" réalisateur="Jérémy SERRANO" img="icon"/>
+    <dvd cat="physique" titre="Endurance" réalisateur="Rémy BARBE" img="icon"/>
+    <dvd cat="physique" titre="Prépa d'avant match" réalisateur="Jérémy SERRANO" img="icon"/>
+    <dvd cat="physique" titre="Renforcement musculaire" réalisateur="Antoine ROSELL" img="icon"/>
+</ressource>
